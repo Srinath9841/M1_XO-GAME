@@ -1,6 +1,7 @@
 # XO-GAME Project
 
-**This game is a type of console-based application where graphics are not used. It is the same as naught and the crosses are also called ‘Xs’ and ‘Os’ which is another name given this game. This game is designed in C language using the help of GCC compiler.**
+**This game is a type of console-based application where graphics are not used. It is the same as naught and the crosses are also called ‘Xs’ and ‘Os’ which is another name given this game. This game is designed in C language using the help of GCC compiler.It is a pencil-and-paper game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.Players soon discover that best play from both parties leads to a draw (often referred to as cat or cat's game). Hence, Tic-tac-toe is most often played by young children.The friendliness of it is a games that makes them ideal as a pedagogical tool for teaching the concepts of good Logical Skill and the branch of artificial intelligence that deals with the searching of game trees. It is straightforward to write a computer program to play XO perfectly, to enumerate the 765 essentially different positions, or the 26,830 possible games up to rotations and reflections on this space.**
+![Build Status](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1200px-Tic_tac_toe.svg.png)
 
 # Features :
 
