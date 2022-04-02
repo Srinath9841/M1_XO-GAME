@@ -1,5 +1,5 @@
 # XO-GAME Project
-
+## INTRODUCTION
 **This game is a type of console-based application where graphics are not used. It is the same as naught and the crosses are also called ‘Xs’ and ‘Os’ which is another name given this game. This game is designed in C language using the help of GCC compiler.It is a pencil-and-paper game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three respective marks in a horizontal, vertical, or diagonal row wins the game.Players soon discover that best play from both parties leads to a draw (often referred to as cat or cat's game). Hence, Tic-tac-toe is most often played by young children.The friendliness of it is a games that makes them ideal as a pedagogical tool for teaching the concepts of good Logical Skill and the branch of artificial intelligence that deals with the searching of game trees. It is straightforward to write a computer program to play XO perfectly, to enumerate the 765 essentially different positions, or the 26,830 possible games up to rotations and reflections on this space.**
 ![Build Status](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1200px-Tic_tac_toe.svg.png)
 
@@ -13,44 +13,52 @@ Easy to operate and understandable.
 
 ## **Functions:**
 
-**Board**: It has the basic outline of the game which gets displayed to the user.
-It is the view part of the game
+## **Board**: 
+      It has the basic outline of the game which gets displayed to the user.
+      It is the view part of the game
 
-**Decision**: It is used to check for the correct input by the players. If the input
+## **Decision**: 
+      It is used to check for the correct input by the players. If the input
 is wrong it again ask for a proper input
 
-**CheckForWin**: It checks for the a row or column or diagonal with same
+## **CheckForWin**:
+      It checks for the a row or column or diagonal with same
 characters X or O, If found print the Winner by Player who
 choose did the last winning move
 
 ## 4W's and 1'H
 
-**Who**: Anyone can play this game. But it is very interesting for young kids.
+## **Who**:
+      Anyone can play this game. But it is very interesting for young kids.
 
-**What**: To increase Logical thinking of individual.
+## **What**:
+      To increase Logical thinking of individual.
 
-**When**: This game can be played whenever you are feeling bored.
+## **When**:
+      This game can be played whenever you are feeling bored.
 
-**Where**: Our Game has to be played on PC/Laptop.
+## **Where**:
+      Our Game has to be played on PC/Laptop.
 
-**How**:    Our Game requires two players.Player1 puts "X" and Player2 puts"O" by choosing numbers from 1-9
+## **How**:
+      Our Game requires two players.Player1 puts "X" and Player2 puts"O" by choosing numbers from 1-9
 
 
 ## SWOT Analysis
 
-**STRENGTHS**:
+## **STRENGTHS**:
 Develops knowledge
 Improves Math Skills
 Improves concentration
 
-**WEAKNESS**:
+## **WEAKNESS**:
 Works only with keyboard
 
-**OPPORTUNITIES**:
+## **OPPORTUNITIES**:
 We can increase the number of rows and columns in the game if updated.
 Our game is portable , it can be used in both linux and windows. 
 
-**THREATS**:
+## **THREATS**:
 There are so many improvements with the latest technology but our game is fundamental.
 
 ## High Level Requirements:
