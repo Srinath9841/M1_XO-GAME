@@ -5,61 +5,80 @@
 
 # Features :
 
-Developed using the C language.
-The user must confirm the start of the play.
-It is played between 2 people, after confirmation you can enjoy your play with your friend.
-In ancient times this game required only a piece of paper and a pen. In our digital era it is almost free.
-Easy to operate and understandable.
+   Developed using the C language.
+
+   The user must confirm the start of the play.
+   
+   It is played between 2 people, after confirmation you can enjoy your play with your friend.
+   
+   In ancient times this game required only a piece of paper and a pen. In our digital era it is almost free.
+
+   Easy to operate and understandable.
 
 ## **Functions:**
 
 ## **Board**: 
-      It has the basic outline of the game which gets displayed to the user.
-      It is the view part of the game
+   
+   It has the basic outline of the game which gets displayed to the user.
+   
+   It is the view part of the game
 
 ## **Decision**: 
-      It is used to check for the correct input by the players. If the input
+   
+   It is used to check for the correct input by the players. If the input
 is wrong it again ask for a proper input
 
 ## **CheckForWin**:
-      It checks for the a row or column or diagonal with same
+   
+   It checks for the a row or column or diagonal with same
 characters X or O, If found print the Winner by Player who
 choose did the last winning move
 
 ## 4W's and 1'H
 
 ## **Who**:
-      Anyone can play this game. But it is very interesting for young kids.
+   
+   Anyone can play this game. But it is very interesting for young kids.
 
 ## **What**:
-      To increase Logical thinking of individual.
+   
+   To increase Logical thinking of individual.
 
 ## **When**:
-      This game can be played whenever you are feeling bored.
+   
+   This game can be played whenever you are feeling bored.
 
 ## **Where**:
-      Our Game has to be played on PC/Laptop.
+   
+   Our Game has to be played on PC/Laptop.
 
 ## **How**:
-      Our Game requires two players.Player1 puts "X" and Player2 puts"O" by choosing numbers from 1-9
+   
+   Our Game requires two players.Player1 puts "X" and Player2 puts"O" by choosing numbers from 1-9
 
 
 ## SWOT Analysis
 
 ## **STRENGTHS**:
-Develops knowledge
-Improves Math Skills
-Improves concentration
+   
+   Develops knowledge
+   
+   Improves Math Skills
+   
+   Improves concentration
 
 ## **WEAKNESS**:
-Works only with keyboard
+   
+   Works only with keyboard
 
 ## **OPPORTUNITIES**:
-We can increase the number of rows and columns in the game if updated.
+   
+   We can increase the number of rows and columns in the game if updated.
 Our game is portable , it can be used in both linux and windows. 
 
 ## **THREATS**:
-There are so many improvements with the latest technology but our game is fundamental.
+   
+   There are so many improvements with the latest technology but our game is fundamental.
 
 ## High Level Requirements:
 
