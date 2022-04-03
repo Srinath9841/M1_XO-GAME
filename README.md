@@ -1,4 +1,9 @@
 # XO-GAME Project
+![Build Status](https://api.codiga.io/project/32530/status/svg)
+
+![Build Status](https://api.codiga.io/project/32530/score/svg)
+
+
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 ## 
 [![Build Status](https://thumbs.dreamstime.com/b/tic-tac-toe-xo-game-drawn-chalk-vector-tic-tac-toe-xo-game-drawn-chalk-vector-illustration-105342558.jpg)
